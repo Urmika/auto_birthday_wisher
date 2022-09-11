@@ -1,0 +1,1 @@
+This project sends automatic Birthday wishes to the email ids mentioned in the csv.
